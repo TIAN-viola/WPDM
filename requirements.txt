@@ -1,0 +1,17 @@
+nltk 
+numpy 
+pandas==1.4.0
+Pillow==9.5.0
+scikit-learn 
+scipy==1.10.1
+sentencepiece==0.1.99
+tensorboard 
+tensorboard-data-server 
+tensorboard-logger==0.1.0
+tokenizers==0.13.3
+torch==1.12.1
+torchaudio==0.12.1
+torchstat==0.0.7
+torchvision==0.13.1
+tqdm 
+transformers==4.28.1
