@@ -15,10 +15,7 @@ This repository contains (PyTorch) code for Explainable Word-Pair based Domain M
   - [Acknowledgements](#acknowledgements)
   - [References](#references)
 
-## Overview
-![](./fig/overview.png)
-In this work, we present a novel Explainable Word-Pair based Domain Mining method (WPDM) for token-level verb metaphor detection. 
-Please find more details of this work in our paper.
+
 ## Setup
 
 ### Install dependencies
